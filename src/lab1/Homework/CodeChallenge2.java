@@ -87,13 +87,10 @@ public class CodeChallenge2 {
         return addZeroAtSpeficicPosition(compute_result,indexOfZeros);
     }
     public static void main(String[] args) {
-        List<Integer> index =  new ArrayList<>();
-        index.add(3);
-        index.add(1);
+//        System.out.println(compute2(10101));
+//        System.out.println(compute2(105));
 
-        //System.out.println(addZeroAtSpeficicPosition("FooBarQixBar",index));
-        System.out.println(compute2(10101));
-        System.out.println(compute2(105));
+
 
     }
 }
