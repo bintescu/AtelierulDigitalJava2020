@@ -33,5 +33,8 @@ public class CodeChallenge4 {
 
     public static void main(String[] args) {
         System.out.println(number_of_pairs(new int[]{-1,-1,-1,2},4));
+        String s = new String("etc");
+        System.out.println(s);
+        
     }
 }
